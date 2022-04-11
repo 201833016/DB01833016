@@ -22,3 +22,5 @@ C# WindowForm을 사용할 계획입니다.
 > 3월 4주차 : 사용자 정보 수집 UI 임시제작, DB연결
 >
 > 4월 1주차 : 개체 - 관계모델 그림 업로드, DB내 Table 추가 및 변경.
+>
+> 4월 2주차 : 프로젝트 변경, https://github.com/201833016/FoodPlatForm
